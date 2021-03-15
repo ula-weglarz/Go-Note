@@ -1,3 +1,47 @@
 p {
- color: blue;
+ font-family: Arial;
+
 }
+
+
+
+.main-image
+{
+	border: 2px solid #54C03F;
+border-radius: 50%;
+
+}
+
+body
+{
+	font-family: Arial;
+}
+
+#main-header
+{
+padding: 10px;
+	background-color: #D1FAD2;
+}
+
+h1, h2
+{
+	color: darkgreen;
+	font-variant: small-caps;
+}
+
+a
+{
+	color: green;
+ text-decoration: none;
+ font-weight: bold;
+}
+
+input
+{
+border: 1px solid grey;
+border-radius: 5px;
+padding: 3px 5px;
+ margin-bottom: 10px;
+	
+}
+
